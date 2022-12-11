@@ -1,0 +1,5 @@
+- 👋 Hi, I’m maleeha naveed
+- 👀 I’m interested in doing coding and exploring new tools and technologies
+- 🌱 I’m currently learning blockchain and web3
+- 📫 maleehanaveed045@gmail.com
+- linkedIn profile: https://www.linkedin.com/in/maleehanaveed/
