@@ -2,5 +2,5 @@
 - 👀 I’m interested in exploring new tools and technologies
 - 🌱 I’m currently learning blockchain and web3
 - Languages: Python, Javascript, Solidity, C/C++, Typescript
-- Tools & Technologies: Hradhat, Ethers, NodeJs, React, NextJs
+- Tools & Technologies: Hardhat, Ethers, NodeJs, React, NextJs
 - linkedIn profile: https://www.linkedin.com/in/maleehanaveed/
