@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning blockchain and web3
 - Languages: Python, Javascript, Solidity, C/C++, Typescript
 - Tools & Technologies: Hardhat, Ethers, NodeJs, React, NextJs, Express
-- Dtabases: MySQL,MongoDB
+- Databases: MySQL,MongoDB
 - linkedIn profile: https://www.linkedin.com/in/maleehanaveed/
