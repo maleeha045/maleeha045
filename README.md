@@ -1,6 +1,5 @@
-- 👋 Hi, I’m maleeha naveed
-- 👀 I work to win by remaining goal orientated and focused on accomplishing tasks
-- 🌱 I’m currently learning blockchain and web3
+- 👋 Hi, I’m maleeha naveed, an Associate blockchain Developer at BlocTech Solutions
+- I work to win by remaining goal orientated and focused on accomplishing tasks
 - Languages: Python, Javascript, Solidity, C/C++, Typescript
 - Tools & Technologies: Hardhat, Ethers, NodeJs, React, NextJs, Express
 - Databases: MySQL,MongoDB
