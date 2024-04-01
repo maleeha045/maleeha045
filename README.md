@@ -1,4 +1,4 @@
-- 👋 Hi, I’m maleeha naveed, an Associate blockchain Developer at BlocTech Solutions
+- 👋 Hi, I’m maleeha naveed, an Associate blockchain Developer
 - I work to win by remaining goal orientated and focused on accomplishing tasks
 - Languages: Python, Javascript, Solidity, C/C++, Typescript
 - Tools & Technologies: Hardhat, Ethers, NodeJs, React, NextJs, Express
